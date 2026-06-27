@@ -1,0 +1,17 @@
+{
+  "name": "県かたちスケッチ",
+  "short_name": "県スケッチ",
+  "description": "お題の都道府県を想像で描いて、答え合わせで形と豆知識を見比べるゲームです。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff9ef",
+  "theme_color": "#fff9ef",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
